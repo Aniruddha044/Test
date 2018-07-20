@@ -1,2 +1,1 @@
-console.log("Hello from m");
-
+consol.log("Git1")
